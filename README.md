@@ -13,9 +13,9 @@ This is my first repositry
 </header>
 <body> 
     <a href="https://google.com"> <img src="6.png" height="500"></a>
+    <h1> Data Entry </h1>
 
     <main>
-        contains all data rendered by the browser -->
     <h1>This is the Heading 1st in the HTML</h1><hr>
     <h2>This is teh second heading</h2><hr>
     <h3>This is the third heading in the HTML Language</h3><hr>
